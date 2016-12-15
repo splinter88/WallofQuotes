@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067988418608",
+    "firebase_url": "https://wall-of-quotes-fdc42.firebaseio.com",
+    "project_id": "wall-of-quotes-fdc42",
+    "storage_bucket": "wall-of-quotes-fdc42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067988418608:android:e418af02838c8f8e",
+        "android_client_info": {
+          "package_name": "rayoflight.wallofquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067988418608-bog2g170rkk71mh1sslr5d7q71undrp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIqfu1LLGeEmLVgqFo0bAg2Jie6kSeQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
